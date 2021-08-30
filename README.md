@@ -1,5 +1,5 @@
 # CRUD
 
 ## Status
-    Em construção ⚙🔨🪓🛠⚒
+   Concluído
 
